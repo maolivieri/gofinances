@@ -1,7 +1,7 @@
   ![projectcover](https://i.ibb.co/1bVNBxT/Capa-1.png)
   
   ## GoFinances - Ignite
-  Project created during the @Rocketseat Ignite course.
+  Project created during the [@Rocketseat](https://www.rocketseat.com.br/) Ignite course.
   
   #### --- Features ---
   - Google and Apple login.
