@@ -1,16 +1,25 @@
 {
   "expo": {
-    "name": "gofinances",
-    "slug": "gofinances",
+    "name": "gofinances-ignite",
+    "slug": "gofinances-ignite",
     "owner": "webstylus",
     "scheme": "gofinances",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#5636D3"
+    },
+    "assetBundlePatterns": ["**/*"],
     "android": {
-      "package": "com.webstylus.gofinances"
-    }
+      "package": "com.webstylus.gofinances",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#5636D3"
+      }
+    },
+    "description": ""
   },
   "name": "gofinances"
 }
